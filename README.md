@@ -3,6 +3,8 @@
 
 Este es un fork de [sedtris](https://github.com/uuner/sedtris) que simplemente agrega permisos de ejecucion al script y un README con instrucciones. Todo el credito por el desarrollo es de [unner](https://github.com/uuner)
 
+![](./sedtris.gif)
+
 ## Como Jugar?
 
 1. Abri la terminal
